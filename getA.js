@@ -1,1 +1,1 @@
-console.log("A")
+console.log("NewLog : A")
