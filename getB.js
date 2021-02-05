@@ -1,5 +1,6 @@
 console.log("NewGetB");
 
+
 import React from "react";
 
 export const getB = () => {
