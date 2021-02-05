@@ -1,4 +1,5 @@
-console.log("GetB");
+console.log("NewGetB");
+
 
 import React from "react";
 
