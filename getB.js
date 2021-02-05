@@ -1,3 +1,4 @@
+console.log("GotLogB")
 console.log("NewGetB");
 
 
